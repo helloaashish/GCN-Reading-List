@@ -1,1 +1,1 @@
-# GCN-Reading-List
+# Reading List For GCN Research
