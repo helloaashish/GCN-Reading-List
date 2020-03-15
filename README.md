@@ -1,6 +1,6 @@
 # Reading List For GCN Research
 
-##INTRODUCTION
+## INTRODUCTION
 
 - Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, and Maosong Sun. 2018. [Graph Neural Networks: A Review of Methods and Applications](http://arxiv.org/abs/1812.08434)
 
