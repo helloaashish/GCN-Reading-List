@@ -10,9 +10,9 @@ All the required fields will be upadated.
 ## <a name='TOC'>Table of Contents</a>
 
   1. [Introduction](#intro)
-  3. [Survey Papers](#survey)
-  5. [Code](#code)
-  10. [Other Resources](#others)
+  2. [Survey Papers](#survey)
+  3. [Code](#code)
+  4. [Other Resources](#others)
   
 
 ## <a name='survey'> SURVEY PAPERS
