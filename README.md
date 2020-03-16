@@ -25,6 +25,8 @@ Other fields will be added and upadated as required.
 
 - William L. Hamilton, Rex Ying, and Jure Leskovec. 2017. [Representation Learning on Graphs: Methods and Applications](http://arxiv.org/abs/1709.05584) arXiv
 
+- Oleksandr Shchur and Stephan Günnemann. 2019. [Overlapping Community Detection with Graph Neural Networks](http://arxiv.org/abs/1909.12201) arXiv
+
 ## <a name ='code'> Code
   The links to codes will be added in this section.
   
