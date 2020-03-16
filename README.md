@@ -23,6 +23,8 @@ All the required fields will be upadated.
 
 - Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, and Pierre Vandergheynst. 2016. [Geometric deep learning: going beyond Euclidean data](http://arxiv.org/abs/1611.08097) arXiv
 
+- William L. Hamilton, Rex Ying, and Jure Leskovec. 2017. [Representation Learning on Graphs: Methods and Applications](http://arxiv.org/abs/1709.05584) arXiv
+
 ## <a name ='code'> Code
   The links to codes will be added in this section.
   
