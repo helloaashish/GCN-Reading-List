@@ -17,11 +17,9 @@ All the required fields will be upadated.
 
 ## <a name='survey'> SURVEY PAPERS
 
-- Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, and Maosong Sun. 2018. [Graph Neural Networks: A Review of Methods and Applications](http://arxiv.org/abs/1812.08434)
+- Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and Philip S. Yu. 2019. [A Comprehensive Survey on Graph Neural Networks.](http://arxiv.org/abs/1901.00596) arXiv.
 
-- Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and Philip S. Yu. 2019. [A Comprehensive Survey on Graph Neural Networks.](http://arxiv.org/abs/1901.00596)
-
-- Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, and Maosong Sun. 2018. [Graph Neural Networks: A Review of Methods and Applications](http://arxiv.org/abs/1812.08434) arXiv [cs.LG].
+- Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, and Maosong Sun. 2018. [Graph Neural Networks: A Review of Methods and Applications](http://arxiv.org/abs/1812.08434) arXiv.
 
 
 ## <a name ='code'> Code
