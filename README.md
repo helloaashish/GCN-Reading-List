@@ -21,6 +21,9 @@ All the required fields will be upadated.
 
 - Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and Philip S. Yu. 2019. [A Comprehensive Survey on Graph Neural Networks.](http://arxiv.org/abs/1901.00596)
 
+- Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, and Maosong Sun. 2018. [Graph Neural Networks: A Review of Methods and Applications](http://arxiv.org/abs/1812.08434) arXiv [cs.LG].
+
+
 ## <a name ='code'> Code
   The links to codes will be added in this section.
   
