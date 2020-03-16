@@ -2,12 +2,12 @@
 
 ## <a name='intro'> INTRODUCTION
 
-This page is a reference page for our GCN research performed by IIT KGP, UNT Collab . We will put the list of reference papers, link to source codes and other related resources in this page. 
+This page is a reference page for the Graph Convolution Network research being performed by IIT KGP, UNT Collab . We will put the list of reference papers, link to source codes and other related resources in this page. 
 
-All the required fields will be upadated.
+Other fields will be added and upadated as required.
 
 
-## <a name='TOC'>Table of Contents</a>
+## <a name='contents'>Contents</a>
 
   1. [Introduction](#intro)
   2. [Survey Papers](#survey)
