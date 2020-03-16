@@ -1,13 +1,29 @@
 # Reading List For GCN Research
 
-## INTRODUCTION
+## <a name='intro'> INTRODUCTION
 
-This page is a reference page for our GCN research. We will put the list of reference papers and other related resources in this page. This page is managed my @helloaashish and @anjan12223333
+This page is a reference page for our GCN research performed by IIT KGP, UNT Collab . We will put the list of reference papers, link to source codes and other related resources in this page. 
 
-## SURVEY PAPERS
+All the required fields will be upadated.
+
+
+## <a name='TOC'>Table of Contents</a>
+
+  1. [Introduction](#intro)
+  3. [Survey Papers](#survey)
+  5. [Code](#code)
+  10. [Other Resources](#others)
+  
+
+## <a name='survey'> SURVEY PAPERS
 
 - Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, and Maosong Sun. 2018. [Graph Neural Networks: A Review of Methods and Applications](http://arxiv.org/abs/1812.08434)
 
 - Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and Philip S. Yu. 2019. [A Comprehensive Survey on Graph Neural Networks.](http://arxiv.org/abs/1901.00596)
 
+## <a name ='code'> Code
+  The links to codes will be added in this section.
+  
+## <a name ='others'> Other Resources
+  Other resources related to research will be added in this section.
 
