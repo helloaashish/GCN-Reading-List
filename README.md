@@ -21,7 +21,7 @@ All the required fields will be upadated.
 
 - Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, and Maosong Sun. 2018. [Graph Neural Networks: A Review of Methods and Applications](http://arxiv.org/abs/1812.08434) arXiv.
 
-- Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, and Pierre Vandergheynst. 2016. [Geometric deep learning: going beyond Euclidean data.] (http://arxiv.org/abs/1611.08097) arXiv
+- Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, and Pierre Vandergheynst. 2016. [Geometric deep learning: going beyond Euclidean data](http://arxiv.org/abs/1611.08097) arXiv
 
 ## <a name ='code'> Code
   The links to codes will be added in this section.
